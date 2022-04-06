@@ -1,10 +1,15 @@
 /* Write your CSS here! */
 .center-block {
     display: block;
+    margin-top: auto;
     margin-left: auto;
     margin-right: auto;
+    margin-bottom: auto;
     width: 25%;
-    padding-top: 50px;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
 }
 
 body{
@@ -12,24 +17,24 @@ body{
     display: block;
 }
 
-.center{
+.center {
   text-align: center;
   font-size: large;
   display: block;
 }
-#mainHeading{
+#mainHeading {
     text-align: center;
     font-size: 50px;
     color: red;
 }
 
-p{
+p {
     text-align: center;
     font-size: x-large;
      display: block;
 }
-
-.testP{
+ 
+.funParagraph {
     padding-top: 100px; 
     color: green;
 }
