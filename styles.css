@@ -1,1 +1,35 @@
 /* Write your CSS here! */
+.center-block {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+    padding-top: 50px;
+}
+
+body{
+    margin: 8px;
+    display: block;
+}
+
+.center{
+  text-align: center;
+  font-size: large;
+  display: block;
+}
+#mainHeading{
+    text-align: center;
+    font-size: 50px;
+    color: red;
+}
+
+p{
+    text-align: center;
+    font-size: x-large;
+     display: block;
+}
+
+.testP{
+    padding-top: 100px; 
+    color: green;
+}
