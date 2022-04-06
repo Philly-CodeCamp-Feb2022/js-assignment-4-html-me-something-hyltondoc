@@ -1,1 +1,40 @@
 /* Write your CSS here! */
+.center-block {
+    display: block;
+    margin-top: auto;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: auto;
+    width: 25%;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+}
+
+body{
+    margin: 8px;
+    display: block;
+}
+
+.center {
+  text-align: center;
+  font-size: large;
+  display: block;
+}
+#mainHeading {
+    text-align: center;
+    font-size: 50px;
+    color: red;
+}
+
+p {
+    text-align: center;
+    font-size: x-large;
+     display: block;
+}
+ 
+.funParagraph {
+    padding-top: 100px; 
+    color: green;
+}
